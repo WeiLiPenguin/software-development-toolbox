@@ -8,6 +8,15 @@ All exercises will be done on your laptop. You can also run them on your remote
 desktop via your laptop. We will not have access to other (local) computing resources.
 
 
+
+
+Alternative 0: Docker
+-------------------------
+Like the Virtualbox, maybe we can use docker https://www.docker.com/.
+For example, we can easyliy setup a gitlab server by using already exist
+docker image: https://github.com/sameersbn/docker-gitlab. and it even can be use as "production model"
+
+
 Alternative 1: Virtualbox
 -------------------------
 
